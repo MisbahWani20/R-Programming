@@ -1,0 +1,6 @@
+Sequence <- seq(20, 50)
+Mean <- mean(20:60)
+Sum <- sum(51:91)
+print(Sequence)
+print(Mean)
+print(Sum)
